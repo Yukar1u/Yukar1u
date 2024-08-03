@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yukar1u
-- 👀 I’m interested in Py/Data structure/Algorism
+- 👀 I’m interested in Py/Data structure/Algorithm
 - 🌱 I’m currently learning Basic of ^^^
 - 😄 Pronouns: u/ka/lin
 
